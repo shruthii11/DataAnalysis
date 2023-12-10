@@ -10,6 +10,7 @@ Gather data from its source (e.g., files, databases, APIs)
 Examine data structure and understand the meaning of each variable
 Check for file format compatibility and encoding issues
 Identify any obvious errors or inconsistencies in the data
+
 2. Handling Missing Values:
 
 Identify missing values and their patterns
@@ -19,12 +20,14 @@ Mean/median imputation for numerical data
 Mode/category filling for categorical data
 Dropping rows/columns with excessive missing values
 Using specialized techniques like KNN or Expectation Maximization
+
 3. Addressing Data Inconsistency:
 
 Identify inconsistencies in formatting, units, or coding
 Standardize data formats (e.g., date format, currency conversion)
 Fix typos and spelling errors
 Recategorize or code categorical data consistently
+
 4. Outlier Detection and Treatment:
 
 Identify outliers using statistical methods (e.g., IQR, z-scores)
@@ -33,11 +36,13 @@ Choose appropriate techniques to handle outliers:
 Winsorization (capping outliers to specific values)
 Transformation (e.g., log scaling)
 Removal (only if outliers are truly non-representative)
+
 5. Data Transformation and Feature Engineering:
 
 Create new features based on existing ones
 Transform features for improved analysis (e.g., scaling, normalization)
 Handle categorical data using techniques like one-hot encoding or label encoding
+
 6. Data Validation and Documentation:
 
 Re-run analysis after cleaning to ensure data integrity
