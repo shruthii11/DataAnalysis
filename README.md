@@ -1,6 +1,6 @@
 # Data Analysis
 
-## Data Cleaning
+## 1) Data Cleaning
 
 Data cleaning is a crucial step in any data analysis process. It involves identifying and correcting errors, inconsistencies, and missing values to ensure the quality and reliability of your data. Here are the complete steps involved in data cleaning:
 
