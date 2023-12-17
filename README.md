@@ -57,4 +57,4 @@ Data cleaning is a crucial step in any data analysis process. It involves identi
 
 Remember: The specific data cleaning steps may vary depending on the characteristics of your data and the goals of your analysis. The key is to be thorough, systematic, and document your process for a successful and reliable analysis.
 
-##2) Exploratory Data Analysis (EDA)
+## 2) Exploratory Data Analysis (EDA)
